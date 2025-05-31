@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mogitate
 
 ## 環境構築
@@ -30,3 +31,6 @@ Laravel環境構築
 
 ・開発環境：http://localhost/  
 ・phpMyAdmin：http://localhost:8080/
+=======
+
+>>>>>>> 18722344164a62295e39362160a9b478f514e7d1
